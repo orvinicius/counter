@@ -1,0 +1,21 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "A counter that has increase, decrease and reset button",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orvinicius/counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orvinicius/counter/issues"
+  },
+  "homepage": "https://github.com/orvinicius/counter#readme"
+}
